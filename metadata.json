@@ -1,0 +1,7 @@
+{
+  "name": "Interview Copilot",
+  "description": "An AI-powered assistant to help you ace your job interviews. It transcribes the interviewer's questions in real-time and suggests answers based on your provided context (CV, job description, etc.).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
